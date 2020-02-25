@@ -16,5 +16,5 @@
 
 ### Results
 
-![Drag Racing](Results/1.gif)
-<img src='Results/1.gif' width="800">
+![Drag Racing](Results/Result.gif)
+<img src='Results/Result.gif' width="800">
