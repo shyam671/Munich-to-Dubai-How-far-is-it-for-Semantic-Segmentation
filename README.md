@@ -7,3 +7,14 @@
 * Jupyter Notebook
 * numpy
 * tqdm
+* torchvision ==0.2.0
+
+### Usage
+* Run the restoration notebook inside with the given parameters.
+* Save the restored images after training.
+* Use the restored images for further training the DeeplabV3 model along with coral loss.
+
+### Results
+
+![Drag Racing](Results/2.gif)
+
