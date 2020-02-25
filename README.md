@@ -16,5 +16,5 @@
 
 ### Results
 
-![Drag Racing](Results/1.gif)
+![Drag Racing](Results/1.gif){:height="36px" width="36px"}.
 
