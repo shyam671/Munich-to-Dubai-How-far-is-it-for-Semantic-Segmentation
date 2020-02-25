@@ -17,4 +17,4 @@
 ### Results
 
 ![Drag Racing](Results/1.gif)
-
+<img src='Results/1.gif' width="800">
