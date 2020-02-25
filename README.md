@@ -16,5 +16,5 @@
 
 ### Results
 
-![Drag Racing](Results/2.gif)
+![Drag Racing](Results/1.gif)
 
