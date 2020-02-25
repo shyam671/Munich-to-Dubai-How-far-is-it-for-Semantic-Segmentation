@@ -1,4 +1,4 @@
-## Munich-to-Dubai: How far is it for Semantic Segmentation
+### Munich-to-Dubai: How far is it for Semantic Segmentation  [[pdf]](http://cvit.iiit.ac.in/images/ConferencePapers/2020/Munich2Dubai-wacv.pdf) 
 #### Code is little messy will be cleaned and updated soon!!
 
 ### Requirements
