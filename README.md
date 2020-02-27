@@ -18,12 +18,12 @@
 
 ![Drag Racing](Results/Result.gif)
 
-### Contact
-shyam.nandan@research.iiit.ac.in 
-
 ### Acknowledegements
 Our code is borrowed from the following repositories:
 * DeeplabV3 [[Link]](https://github.com/chenxi116/DeepLabv3.pytorch) 
 * Spectral GAN [[Link]](https://github.com/christiancosgrove/pytorch-spectral-normalization-gan)
 * Restoration Network [[Link1]](https://github.com/zmurez/TurbulentWater) [[Link2]](https://github.com/yulunzhang/RCAN) [[Link3]](https://github.com/MIVRC/MSRN-PyTorch)
+
+### Contact
+shyam.nandan@research.iiit.ac.in 
 
