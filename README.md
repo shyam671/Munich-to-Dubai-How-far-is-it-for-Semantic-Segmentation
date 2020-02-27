@@ -20,5 +20,5 @@
 
 ### Acknowledegements
 Our code is borrowed from the following repositories:
-* DeeplabV3 [[Link]] 
-(https://github.com/chenxi116/DeepLabv3.pytorch) 
+* DeeplabV3 [[Link]](https://github.com/chenxi116/DeepLabv3.pytorch) 
+* Spectral GAN [[Link]](https://github.com/christiancosgrove/pytorch-spectral-normalization-gan)
