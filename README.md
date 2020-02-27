@@ -18,6 +18,9 @@
 
 ![Drag Racing](Results/Result.gif)
 
+### Contact
+shyam.nandan@research.iiit.ac.in 
+
 ### Acknowledegements
 Our code is borrowed from the following repositories:
 * DeeplabV3 [[Link]](https://github.com/chenxi116/DeepLabv3.pytorch) 
