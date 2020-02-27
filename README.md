@@ -17,3 +17,7 @@
 ### Results
 
 ![Drag Racing](Results/Result.gif)
+
+### Acknowledegements
+Our code is borrowed from the following repositories:
+* DeeplabV3 [[Link]] (https://github.com/chenxi116/DeepLabv3.pytorch) 
