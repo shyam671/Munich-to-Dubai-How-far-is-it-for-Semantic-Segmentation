@@ -1,3 +1,4 @@
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FSKKSaikia%2FCS229_ML)
 ### Munich-to-Dubai: How far is it for Semantic Segmentation  [[pdf]](http://cvit.iiit.ac.in/images/ConferencePapers/2020/Munich2Dubai-wacv.pdf) 
 #### Code is little messy will be cleaned and updated soon!!
 
